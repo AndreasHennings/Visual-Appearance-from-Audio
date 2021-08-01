@@ -5,5 +5,6 @@ Die Anwendung berechnet dann zunächst, wie die Einzelbilder des Ausgangsvideos 
 Anschließend wird dann berechnet, welche der Bilder mit den neuen Audiodaten am besten korrelieren und erstellt aus diesen eine neue Videodatei.
 
 [Ausführlichere Informationen gibt es im dazugehörigen Paper](https://github.com/AndreasHennings/Visual-Appearance-from-Audio/blob/main/VAFA.ipynb)
+
 [Projekt auf Google Colab ausprobieren](https://colab.research.google.com/github/AndreasHennings/Visual-Appearance-from-Audio/blob/main/VAFA.ipynb)
 
