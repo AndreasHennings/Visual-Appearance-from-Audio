@@ -1,7 +1,3 @@
-# Visual Appearance from Audio
-
-created by Andreas Hennings
-
 Visual Appearance from Audio ist eine Anwendung, mit deren Hilfe Videos von sprechenden Personen aus Audiodateien erzeugt werden können.
 
 Als Rohmaterial wird ein mehrminütiges Video einer sprechenden Person und eine Audioaufnahme derselben Person benötigt. 
